@@ -1,0 +1,43 @@
+{
+	"id": 910,
+	"name": "DoctorFroid",
+	"description": "DoctorFroid is a German Streamer\nand the 360 means the \"360er Seitenstraßenbande\"",
+	"links": {
+		"website": [
+			"https://www.twitch.tv/doktorfroid"
+		],
+		"discord": [
+			"doktorfroid"
+		]
+	},
+	"path": {
+		"145": [
+			[
+				400,
+				-299
+			],
+			[
+				418,
+				-299
+			],
+			[
+				418,
+				-289
+			],
+			[
+				399,
+				-289
+			],
+			[
+				399,
+				-299
+			]
+		]
+	},
+	"center": {
+		"145": [
+			409,
+			-294
+		]
+	}
+}
